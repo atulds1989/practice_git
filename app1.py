@@ -1,6 +1,6 @@
 print("this is the first app to practice git")
 
-def addition(a,b):
-    return a+b
+def addition(a,b,c,d):
+    return a+b+c+d
 
-print("result is", addition(3,2))
+print("result is", addition(3,2,3,4))
