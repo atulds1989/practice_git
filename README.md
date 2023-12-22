@@ -9,6 +9,7 @@ If we are working from remote to local then flow:
  - git config --global user.name "user name of the github profile"
  - git config --global user.email "email by you have created the github profile"
  - git config --list (to check the configuration detail you have entered)
+ - git remote add origin <url of repository>
 5. made the changes in the existing files or create new files.
 6. git add . (add the files to the staging area)
 7. git commit -m "...name the commit you can write the brief of your changes"
